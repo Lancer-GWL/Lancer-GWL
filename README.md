@@ -29,7 +29,7 @@ I am a dedicated learner and a problem solver, with hands-on experience in elect
 - Familiar with tools and techniques used for penetration testing and ethical hacking.
   
 ## Contact Me
-
+eldhosereji24@gmail.com
 Feel free to connect with me if you're interested in collaboration, freelance work, or job opportunities in the cybersecurity field.
 
 Thank you for visiting my profile! I'm constantly learning and exploring new areas in the world of cybersecurity, and I'm always open to new opportunities.

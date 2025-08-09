@@ -27,6 +27,8 @@ I am a dedicated learner and a problem solver, with hands-on experience in elect
 ### EC-Council - Certified Ethical Hacker (CEH)
 - Passed the CEH exam, demonstrating strong knowledge of cybersecurity, ethical hacking methodologies, and security protocols.
 - Familiar with tools and techniques used for penetration testing and ethical hacking.
+
+### Studying Unity Game Developing (Not finished)
   
 ## Contact Me
 eldhosereji24@gmail.com

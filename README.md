@@ -1,38 +1,103 @@
-# Eldhose Reji
 
-Welcome to my GitHub profile! I'm Eldhose Reji, a passionate and skilled professional with a background in electronics mechanics and cybersecurity.
+<h1 align="center">👋 Eldhose Reji</h1>
+<h3 align="center">🔐 Ethical Hacker | 💻 Cybersecurity | ⚡ Electronics</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=450&lines=Hi+I'm+Eldhose+Reji;Cybersecurity+Enthusiast;Ethical+Hacker;Electronics+Specialist;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+---
 
-## About Me
+## 🚀 About Me
 
-I am a dedicated learner and a problem solver, with hands-on experience in electronics and cybersecurity. 
+* 🔹 Passionate about **Cybersecurity & Ethical Hacking**
+* 🔹 Skilled in **Electronics Troubleshooting**
+* 🔹 Focused on **Securing Systems & Finding Vulnerabilities**
+* 🔹 Always exploring new technologies
 
-## Skills
+---
 
-- **Electronics Mechanics**
-  - Troubleshooting and repairing electronic systems
-  - Maintenance of electronic components and devices
-- **Cybersecurity & Ethical Hacking**
-  - Vulnerability assessment and penetration testing
-  - Network security and web application security
-  - Proficient in tools like Kali Linux, Metasploit, Wireshark, Burp Suite, etc.
-  - Understanding of firewalls, IDS/IPS, and encryption
-- **Programming**
-  - Basic knowledge of Python, Shell scripting
-  - Familiar with web technologies like HTML, CSS, JavaScript
+## 🧠 Skills Progress
 
-### Red Team Hacker Academy - ADCD Program (Completed)
-- Gained comprehensive knowledge in the area of ethical hacking, including penetration testing, network security, and vulnerability assessments.
-- Completed practical assignments in ethical hacking scenarios.
-  
-### EC-Council - Certified Ethical Hacker (CEH)
-- Passed the CEH exam, demonstrating strong knowledge of cybersecurity, ethical hacking methodologies, and security protocols.
-- Familiar with tools and techniques used for penetration testing and ethical hacking.
+### 🔐 Cybersecurity
 
-### Studying Unity Game Developing (Not finished)
-  
-## Contact Me
-eldhosereji24@gmail.com
-Feel free to connect with me if you're interested in collaboration, freelance work, or job opportunities in the cybersecurity field.
+```
+██████████████████░░░░ 80%
+```
 
-Thank you for visiting my profile! I'm constantly learning and exploring new areas in the world of cybersecurity, and I'm always open to new opportunities.
+### 🌐 Web Security
 
+```
+████████████████░░░░░░ 70%
+```
+
+### ⚡ Electronics
+
+```
+████████████████████░░ 90%
+```
+
+### 💻 Programming
+
+```
+████████████░░░░░░░░░░ 60%
+```
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,js,html,css,bash,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux">
+  <img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge">
+</p>
+
+---
+
+## 🎓 Certifications
+
+### 🧠 ADCD - Red Team Hacker Academy
+
+✔ Ethical Hacking & Penetration Testing
+✔ Real-world attack simulations
+
+### 🏅 CEH - EC-Council
+
+✔ Certified Ethical Hacker
+✔ Security tools & methodologies
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** [eldhosereji24@gmail.com](mailto:eldhosereji24@gmail.com)
+
+💬 Open for:
+
+* Freelance work
+* Collaborations
+* Cybersecurity roles
+
+---
+
+## 🔥 Hacker Quote
+
+> "Security is not a product, it's a process." – Bruce Schneier
+
+---
+
+⭐ *Thanks for visiting! Don't forget to star ⭐ your favorite repositories.*
